@@ -1,4 +1,5 @@
 # modern-DevPortfolio
-Responsive Portfolio Website
 
-![ image ](https://imgur.com/a/P49ZTNT.jpg)
+**Responsive Portfolio Website**
+
+![ image ](https://i.imgur.com/e4rRgze.png)
